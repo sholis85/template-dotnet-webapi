@@ -4,8 +4,8 @@
     "Title": ".NET 8.0 WebAPI",
     "Version": "v1",
     "Description": "Clean Architecture Template for .NET 8.0 WebApi.",
-    "ContactName": "Cristopher",
-    "ContactEmail": "cristopher.sanchez@gmail.com",
+    "ContactName": "David Solís",
+    "ContactEmail": "solismarquezdavid@gmail.com",
     "License": true,
     "LicenseName": "MIT License"
   }
