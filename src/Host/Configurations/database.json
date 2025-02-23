@@ -1,0 +1,7 @@
+{
+  "DatabaseSettings": {
+    "UsePersistence": true,
+    "DBProvider": "mysql",
+    "ConnectionString": "Server=localhost;Port=3306;Database=db;Uid=root;Pwd=my-secret-password;"
+  }
+}

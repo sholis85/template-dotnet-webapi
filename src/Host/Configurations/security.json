@@ -1,0 +1,23 @@
+{
+  "SecuritySettings": {    
+    "Provider": "Jwt",
+    "JwtSettings": {
+      "enabled": "true",
+      "clientProvider": "ef", //"inMemory",
+      "key": "S0M3RAN0MS3CR3T!1!MAG1C!1!API!1!",
+      "tokenExpirationInMinutes": 60,
+      "refreshTokenExpirationInDays": 7,
+      "audience": "myaudience",
+      "issuer": "myissuer"
+    },
+    "CognitoJwtSettings": {
+      "Region": "eu-west-1",
+      "UserPoolId": "eu-west-1_mbpoVb8rz",
+      "AppClientId": "48sbuvq7ln49k09ds21rq65q4c",
+      "ValidateAudience": true
+    },
+    "Swagger": {
+
+    }
+  }
+}

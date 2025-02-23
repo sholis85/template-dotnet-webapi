@@ -1,0 +1,5 @@
+﻿msgid "testString"
+msgstr "testString in spanish"
+
+msgid "testString2"
+msgstr "testString2 in spanish"
